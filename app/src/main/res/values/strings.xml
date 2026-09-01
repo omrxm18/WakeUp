@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wake Up</string>
+    <string name="tile_label">Keep Awake</string>
+</resources>
